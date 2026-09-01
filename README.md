@@ -40,12 +40,6 @@ I’m currently exploring full-stack development, open-source collaboration, and
 
 ---
 
-## 📚 Learning Goals for 2025  
-- ✅ Build & deploy **3 full-stack MERN apps**  
-- 🧩 Contribute to **2+ open-source projects**  
-- 💬 Start learning **TypeScript** and **Next.js**  
-- ⚡ Improve backend architecture & API design skills  
-
 ---
 
 ## 📫 Let’s Connect  
